@@ -10,7 +10,7 @@ I am proficient in English and German (C1 certificate).
 
 ## Technologies
 - Version Control: Advanced knowledge of Git
-- Databases: SQL (relational databases)
+- Databases: SQL, PL/SQL (relational databases)
 - Containerization: Docker
 - Game Development: Godot Engine
 - Virtualization: Virtual Machines
@@ -23,7 +23,14 @@ I am proficient in English and German (C1 certificate).
 - x86/x86-64 assembly
 
 ## Projects
-(update links)
+* A game of order and chaos made in pygame
+  https://github.com/krzychu598/order-and-chaos
+
+* A warehouse simulation project in c++.
+  https://github.com/krzychu598/WarehouseSimulation
+
+* A wordle-type game in java. Using free API-s, relational database, java swing
+  https://github.com/krzychu598/Wordly
 
 ## Contact
 Contact me by wnorowski.krzysztof98@gmail.com
