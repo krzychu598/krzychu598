@@ -23,13 +23,13 @@ I am proficient in English and German (C1 certificate).
 - x86/x86-64 assembly
 
 ## Projects
-* A game of order and chaos made in pygame
+* A game of order and chaos made in pygame. <br/>
   https://github.com/krzychu598/order-and-chaos
 
-* A warehouse simulation project in c++.
+* A warehouse simulation project in c++. <br/>
   https://github.com/krzychu598/WarehouseSimulation
 
-* A wordle-type game in java. Using free API-s, relational database, java swing
+* A wordle-type game in java. Using free API-s, relational database, java swing. <br/>
   https://github.com/krzychu598/Wordly
 
 ## Contact
