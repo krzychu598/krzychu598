@@ -33,6 +33,6 @@ I am proficient in English and German (C1 certificate).
   https://github.com/krzychu598/Wordly
 
 ## Contact
-Contact me by wnorowski.krzysztof98@gmail.com
+Reach me at https://www.linkedin.com/in/krzysztof-wnorowski-288027356
 
 ### 🔍 Open to Work in IT
