@@ -14,15 +14,21 @@ I am proficient in English and German (C1 certificate).
 - Containerization: Docker
 - Game Development: Godot Engine
 - Virtualization: Virtual Machines
+- Operating Systems: Windows, Linux
   
 ## Programming Languages
 - C/C++
 - Python
 - Java
 - C#
+- SQL, PL/SQL
+- JavaScript
 - x86/x86-64 assembly
 
 ## Projects
+* A python app to manage video files
+  https://github.com/krzychu598/movies_manager
+  
 * A game of order and chaos made in pygame. <br/>
   https://github.com/krzychu598/order-and-chaos
 
@@ -31,6 +37,9 @@ I am proficient in English and German (C1 certificate).
 
 * A wordle-type game in java. Using free API-s, relational database, java swing. <br/>
   https://github.com/krzychu598/Wordly
+
+* A code 39 decoder written in c and x86 assembly
+  https://github.com/krzychu598/BarcodeReader
 
 ## Contact
 Reach me at https://www.linkedin.com/in/krzysztof-wnorowski-288027356
