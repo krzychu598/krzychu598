@@ -5,8 +5,8 @@ I am proficient in English and German (C1 certificate).
 
 ## Skills
 - Clean code principles implementation
-- Unit testing
 - Algorithmic thinking
+- Teamwork
 
 ## Technologies
 - Version Control: Advanced knowledge of Git
@@ -15,6 +15,7 @@ I am proficient in English and German (C1 certificate).
 - Game Development: Godot Engine
 - Virtualization: Virtual Machines
 - Operating Systems: Windows, Linux
+- Unit tests: GoogleTest, pytest
   
 ## Programming Languages
 - C/C++
@@ -26,7 +27,7 @@ I am proficient in English and German (C1 certificate).
 - x86/x86-64 assembly
 
 ## Projects
-* A python app to manage video files
+* A python app to manage video files <br/>
   https://github.com/krzychu598/movies_manager
   
 * A game of order and chaos made in pygame. <br/>
@@ -38,7 +39,7 @@ I am proficient in English and German (C1 certificate).
 * A wordle-type game in java. Using free API-s, relational database, java swing. <br/>
   https://github.com/krzychu598/Wordly
 
-* A code 39 decoder written in c and x86 assembly
+* A code 39 decoder written in c and x86 assembly <br/>
   https://github.com/krzychu598/BarcodeReader
 
 ## Contact
